@@ -5,6 +5,5 @@ you will find:
 
 #### 1- Meta data.
 #### 2- Datset.
-
-#### 3- our solution.
-#### 4- any other open and public dataset which support the objective.
+#### 3- Our solution.
+#### 4- Any other open and public datasets which support the objective.
