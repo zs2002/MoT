@@ -24,3 +24,10 @@ Here you will find:
 ###### * are road safety campaigns effective?
 ###### * likelihood of accidents for different groups / vehicles 
 ###### * many more
+
+### Resources:
+###### https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles/kernels
+###### https://www.kaggle.com/akshay4/road-accidents-incidence/
+###### https://www.kaggle.com/silicon99/dft-accident-data
+###### https://www.kaggle.com/ahmedlahlou/preventing-traffic-accidents-in-paris-with-ai
+###### 
