@@ -1,5 +1,5 @@
-## This Project is meant for MoT compition.
-you will find:
+## This Project is meant for MoT competition.
+Here you will find:
 
 ##### Point #1,2 will be sent individually due to privacy and legal terms.
 
