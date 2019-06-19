@@ -31,3 +31,7 @@ Here you will find:
 ###### https://www.kaggle.com/silicon99/dft-accident-data
 ###### https://www.kaggle.com/ahmedlahlou/preventing-traffic-accidents-in-paris-with-ai
 ###### 
+
+### suggested Objectives:
+###### be able to predict when conditions will be more prone to accidents to be able to proactivley take preventive measures. 
+###### possible areas/ situations where coming accidents might happen or % ratio increase this will help faster care
